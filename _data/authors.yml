@@ -1,0 +1,39 @@
+## Template › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/advanced-usage.md#setting-author-url
+# -------------------------------------
+# {author_id}:
+#   name: {full name}
+#   twitter: {twitter_of_author}
+#   url: {homepage_of_author}
+# -------------------------------------
+
+Lucas:
+  name: Lucas Efrain Espinola Benitez
+  url: /Nosaltres/
+
+Xavier:
+  name: Xavier Mazon Borrás
+  url: /Nosaltres/
+
+Denise:
+  name: Denise Navarro Aguilar
+  url: /Nosaltres/
+
+Mario:
+  name: Mario Konstanty Kochan Chmielik
+  url: /Nosaltres/
+
+Daniel:
+  name: Daniel Gonzalez Vicenzo
+  url: /Nosaltres/
+
+Nil:
+  name: Nil Blanca Martret
+  url: /Nosaltres/
+
+Josep:
+  name: Josep Marches Parra
+  url: /Nosaltres/
+
+Jordi:
+  name: Jordi Pagès Rivera
+  url: /Nosaltres/
